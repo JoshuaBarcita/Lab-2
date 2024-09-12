@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="eng">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Week 2 | Semantic Elements</title>
+	<meta name="description" content="This week we are looking at semantic elements">
+	<meta name="robots" content="noindex, nofollow">
+</head>
+<body>
+	<header>
+	<div>
+	</div>
+	<nav>
+	</nav>
+</header>
+<section>
+</section>
+<main>
+	<section>
+	</section>
+	<section>
+	</section>
+	<section>
+	</section>
+</main>
+<aside>
+	<article>
+	</article>
+	<article>
+	</article>
+	</aside>
+
+<footer>
+</footer>
+</body>
+</html>
